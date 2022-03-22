@@ -5,7 +5,7 @@ This tutorials is about <i>pushing database changes to the UI dashboard</i> usin
 <i>SqlTableDependency</i> is a high-level C# component used to audit, monitor and receive notifications on SQL Server's record table changes. 
 For any record table change, as <i>insert</i>, <i>update</i> or <i>delete</i> operation, a notification containing values for the record changed is delivered to SqlTableDependency.
 
-We have used <a href="https://www.chartjs.org/">Chart.js</a> for dashboard
+We have used <a href="https://www.chartjs.org/" target="_blank">Chart.js</a> for dashboard
 
 Database scripts are placed inside the project solution.
 
