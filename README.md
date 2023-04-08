@@ -18,3 +18,6 @@ Follow us on <br/>
 
 <br/>
 <a href="https://github.com/Skynet-Demos">All Skynet-Demo Git Repos</a> <br/>
+
+<br>
+<a href="https://www.buymeacoffee.com/skynetechs">Buy me a Coffee</a>
